@@ -1,0 +1,14 @@
+body
+{
+    height: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+#color
+{
+    background: rgb(248,248,254);
+    background: rgb(144,18,18);
+    background: linear-gradient(90deg, rgb(207, 15, 15) 0%, rgb(252, 191, 191) 50%, rgb(211, 12, 12) 100%);
+}
